@@ -1,0 +1,11 @@
+{
+  "project": "COSMOS_EYE",
+  "version": "0.1.0",
+  "mode": "simulation",
+  "node_id": "cosmos-node-sim-01",
+  "physical_sensors_enabled": false,
+  "network_transport_enabled": false,
+  "remote_upload_enabled": false,
+  "automatic_device_control": false,
+  "event_retention": "session_only"
+}
